@@ -1,0 +1,6 @@
+pandas
+pandasql
+numpy
+scipy
+matplotlib
+sklearn 
