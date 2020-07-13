@@ -1,6 +1,6 @@
 # Avocado Distribution Analysis (using Python)
 ### In this Project, we aim to find the Most Profitable Method of Distributing Avocados to Regions in the US 
-Team Members: Zenn Png, Clarice Chua, Lim Jun Hao, Gan Hui Ting, Teresa Liew, Jason Andika Lie 
+Team Members: Gan Hui Ting, Zenn Png, Clarice Chua, Lim Jun Hao, Teresa Liew, Jason Andika Lie 
 
 Dataset Used:  
 https://www.kaggle.com/neuromusic/avocado-prices   
