@@ -27,6 +27,7 @@ Using‌ ‌the‌ ‌optimal‌ ‌quantity‌ ‌of‌ ‌each‌ ‌type‌ �
 - Supplying‌ ‌regions‌ ‌directly   
 - Risk-pooling‌ ‌by‌ ‌States   
 - Risk-pooling‌ ‌by‌ ‌Distance   
+
 We‌ ‌found‌ ‌that‌ ‌Risk-pooling‌ ‌by‌ ‌Distance‌ ‌was‌ ‌the‌ ‌most‌ ‌profitable‌ ‌ from‌ ‌our‌ ‌analysis‌ ‌and‌ ‌is‌ ‌thus‌ ‌the‌ ‌recommended‌ ‌approach‌ ‌to‌ ‌distributing‌ ‌avocadoes‌ ‌to‌ ‌regions‌ ‌in‌ ‌the‌ ‌US.‌
 
 Detailed report:   
