@@ -6,7 +6,8 @@ Dataset Used:
 https://www.kaggle.com/neuromusic/avocado-prices / https://hassavocadoboard.com   
 
 ### Contents 
-- main code in [analysis_full.py](https://github.com/zennpng/avocado_supply/blob/master/analysis_full.py)
+- segmented code in .py files 
+- full combined code in [analysis_full.py](https://github.com/zennpng/avocado_supply/blob/master/analysis_full.py)
 - xlsx and csv files provided, code also produces those files  
 - Key plots includes as jpg files  
 - pip install -r requirements.txt 
