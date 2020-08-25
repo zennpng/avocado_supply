@@ -3,7 +3,7 @@
 Team Members: Gan Hui Ting, Zenn Png, Clarice Chua, Lim Jun Hao, Teresa Liew, Jason Andika Lie 
 
 Dataset Used:  
-https://www.kaggle.com/neuromusic/avocado-prices / https://hassavocadoboard.com/   
+https://www.kaggle.com/neuromusic/avocado-prices / https://hassavocadoboard.com   
 
 ### Contents 
 - main code in [analysis_full.py](https://github.com/zennpng/avocado_supply/blob/master/analysis_full.py)
